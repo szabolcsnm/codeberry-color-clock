@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#clock {
+    font-family: "Exo 2", sans-serif;
+    font-size: calc(2rem + 10vw);
+    font-weight: bold;
+    color: azure;
+}
